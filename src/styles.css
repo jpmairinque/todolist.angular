@@ -10,6 +10,10 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+form{
+  margin-bottom: 2rem;
+}
+
 .container {
   max-width: 500px;
   margin: 30px auto;
