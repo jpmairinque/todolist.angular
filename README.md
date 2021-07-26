@@ -1,27 +1,20 @@
-# AngularTodo
+# Angular Tasks 📝👨🏽‍💻
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.3.
+Lista de tarefas que permite adicionar o dia e uma tag de lembrete à elas. As tarefas ficam armazenadas no JSON server, e as requisições são realizadas via HttpClient do Angular
 
-## Development server
+![image](https://user-images.githubusercontent.com/53411709/127067662-ff35ae5c-1267-421a-839c-81ea3d7a5f27.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+# Info 💻
 
-## Build
+- Angular 12.1
+- Vídeo de referência [(link)](https://www.youtube.com/watch?v=3dHNOWTI7H8&ab_channel=TraversyMedia)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Rodando a aplicação 🖥
 
-## Running end-to-end tests
+- ng serve
+- npm run server 
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
